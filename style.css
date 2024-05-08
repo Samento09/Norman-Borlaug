@@ -1,0 +1,113 @@
+#main{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 8px;
+    margin-right: 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(138, 7, 7);
+}
+#title{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    margin: 42.88;
+    
+}
+.man{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #C7C2C2;
+    margin: 16px;
+}
+
+.image-div{
+    background-position: no-repeat;
+    background-image: url(WhatsApp\ Image\ 2024-05-04\ at\ 13.36.58_7547b7e8.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+#image{
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: auto;
+    padding-top: 8px;
+}
+#img-caption {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    padding-bottom: 15px;
+}
+
+#headline{
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+    font-size: 18.72px;
+    text-align: center;
+    margin: 50px;
+}
+.lis{  
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    margin: 16px;  
+}
+li{
+    margin: 16px;
+}
+
+ul{
+    max-width: 550px;
+    margin: auto;
+    text-align: left;
+}
+blockquote{
+    max-width: 545px;
+    text-align: left;
+    font-style: italic;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+#attribute-link{
+    color: #746387;
+}
+
+footer {
+    display: block;
+    unicode-bidi: isolate;
+}
